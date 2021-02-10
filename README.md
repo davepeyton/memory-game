@@ -1,8 +1,13 @@
-# Memory Game Tutorial - Vanilla JavaScript <br>
-🕹 Demo: Memory Game Project
-🎬 Video Tutorial: Code Sketch Channel
-✏️ Wriiten Tutorial: Memory Game Tutorial
-Project developed in vanilla javascript. Learn the fundamentals of pure javascript in a 30 minute project. No frameworks or libraries, definitely no jQuery.
+<br>
+
+# Project 2 : Memory Game  - Vanilla JavaScript <br>
+
+
+🕹 Demo: play my Memory Game Project
+<br>
+# Project developed in vanilla javascript. <br>
+
+### I've Learned the fundamentals of pure javascript, No frameworks or libraries, no jQuery.
 
 # In this project I covered: <br>
 
